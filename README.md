@@ -91,7 +91,7 @@ The application features a clean, intuitive graphical user interface built using
    
    **Using MinGW:**
    ```bash
-   g++ -std=c++17 -O2 -DUNICODE -D_UNICODE -mwindows -o xsukax_filegen.exe icon.res xsukax_filegen.cpp -lcomctl32 -lgdi32 -luser32 -lkernel32
+   g++ -std=c++17 -O2 -DUNICODE -D_UNICODE -mwindows -o xsukax_filegen.exe xsukax_filegen.cpp -lcomctl32 -lgdi32 -luser32 -lkernel32
    ```
 
 4. **Verify Installation**
