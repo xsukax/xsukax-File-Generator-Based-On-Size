@@ -7,6 +7,8 @@
 
 A lightweight, high-performance Windows application designed for generating files of specified sizes filled with comprehensive information you choose.
 
+![](https://raw.githubusercontent.com/xsukax/xsukax-File-Generator-Based-On-Size/refs/heads/main/ScreenShot.png)
+
 ## Project Overview
 
 The xsukax File Generator is a native Windows C++ application that creates text files of user-defined sizes containing information you choose. This tool serves multiple purposes including testing disk performance, generating sample data, creating documentation archives, and showcasing project information in a structured format.
